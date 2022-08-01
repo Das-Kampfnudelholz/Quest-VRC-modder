@@ -14,3 +14,7 @@ Install this version and launch it.
 WARING YOU WILL ONLY SEE A BLACK SCREEN FOR THE NEXT 20MINUTES THAT HOW ITS MENT TO BE DONT CLOSE IT OR DO ANYTHING. 
 After VRChat is done with the first start go back to your PC and Run Script number 2. 
 And your done, everything is now ready to go. 
+#Usefull
+https://github.com/gompoc/MyEpicTestMod/releases/tag/v1.0.0
+https://github.com/LavaGang/MelonLoader
+https://api.vrcmg.com/v1/mods/download/62
