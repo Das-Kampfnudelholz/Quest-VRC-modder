@@ -17,7 +17,7 @@ int main()
     const wchar_t* srcURL = L"https://cdn.discordapp.com/attachments/946558976781336586/1002402723712487514/app-release.apk";
     const wchar_t* destFil2 = L"HWIDPatch.dll";
     const wchar_t* srcUR2 = L"https://api.vrcmg.com/v1/mods/files/62/4/HWIDPatch.dll";
-    const wchar_t* destFil = L"AntiCrash.dll";
+    const wchar_t* destFil = L"OculusPatch.dll";
     const wchar_t* srcUL = L"https://github.com/gompoc/MyEpicTestMod/releases/download/v1.0.0/MyEpicTestMod.dll";
     int option;
     std::cout << "VRChat Mod installer for Oculus Quest\n\n Select action\n[1] Install LemonLoader [2]Post Patch Installation [3]MelonLoader Console Normal [4]MelonLoader Console Verbose\nSelect:";
@@ -43,11 +43,11 @@ int main()
         break;
     case 2:
         std::cout << "Starting Post Patch Install";
-        std::cout << "\n Downloading AntiCrash.dll\n";
+        std::cout << "\n Downloading OculusPatch.dll\n";
         if (S_OK == URLDownloadToFile(NULL, srcUL, destFil, 0, NULL))
         {
             printf("\n Downloaded!\n");
-            system("adb.exe push AntiCrash.dll /sdcard/Android/data/com.vrchat.oculus.quest/files/Mods");
+            system("adb.exe push OculusPatch.dll /sdcard/Android/data/com.vrchat.oculus.quest/files/Mods");
             Sleep(1000);
             if (S_OK == URLDownloadToFile(NULL, srcUR2, destFil2, 0, NULL))
             {
