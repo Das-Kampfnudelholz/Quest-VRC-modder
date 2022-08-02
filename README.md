@@ -45,8 +45,10 @@ After VRChat is done with the first start go back to your PC and Run Script numb
 And your done, everything is now ready to go. 
 ```
 
+## Screenshots
 
-
+![image](https://user-images.githubusercontent.com/102672314/182476985-5d24ab5a-eae9-40f9-8360-c8f33080c061.png)
+![image](https://user-images.githubusercontent.com/102672314/182477088-ff0c40d9-36c9-43b6-aaef-67e1c639395c.png)
 
 ## Download
 
