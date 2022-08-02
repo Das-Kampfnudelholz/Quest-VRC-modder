@@ -18,6 +18,13 @@
 * Automaticly download all needed Mods
 * Easy to use Debug output
 
+## TO-DO
+
+* Add more Mods
+* Add Screenshare Feature
+* Add Feature to move own Mods to Quest 
+
+
 
 
 ## How To Use
