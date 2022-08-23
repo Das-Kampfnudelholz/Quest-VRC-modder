@@ -66,7 +66,7 @@ This software uses the following open source packages:
 - [HWIDSpoof] ([https://github.com/chjj/marked](https://api.vrcmg.com/v1/mods/download/62))
 - [ProMovements] ([https://github.com/EdenFails/ProMovements/releases/tag/V2.0.0))
 - [ForceJump] ([https://github.com/Cyril-Xd/Force_Jump/releases/tag/Release))
-- [HWIDSpoof] ([https://github.com/chjj/marked](https://api.vrcmg.com/v1/mods/download/62))
+- [HWIDSpoof] (https://github.com/ToxicStuff/MenuColor/releases/tag/1.0.0)
 
 
 ## License
