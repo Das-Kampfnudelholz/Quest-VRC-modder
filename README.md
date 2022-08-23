@@ -11,7 +11,7 @@
   <a href="#license">License</a>
 </p>
 
-<h4 align="center">https://discord.gg/vvB9hjJHV9</a>.</h4>
+<h4 align="center">https://discord.gg/wYPE9TXpNa</a>.</h4>
 
 
 ## Key Features
