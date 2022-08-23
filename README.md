@@ -61,12 +61,12 @@ You can [download](https://github.com/Das-Kampfnudelholz/Quest-VRC-modder/releas
 
 This software uses the following open source packages:
 
-- [MelonLoader](https://github.com/LavaGang/MelonLoader)
-- [MyEpicTestMod](https://github.com/gompoc/MyEpicTestMod/releases/tag/v1.0.0)
-- [HWIDSpoof]([https://github.com/chjj/marked](https://api.vrcmg.com/v1/mods/download/62))
-- [ProMovements]([https://github.com/EdenFails/ProMovements/releases/tag/V2.0.0))
-- [ForceJump]([https://github.com/Cyril-Xd/Force_Jump/releases/tag/Release))
-- [HWIDSpoof]([https://github.com/chjj/marked](https://api.vrcmg.com/v1/mods/download/62))
+- [MelonLoader] (https://github.com/LavaGang/MelonLoader)
+- [MyEpicTestMod] (https://github.com/gompoc/MyEpicTestMod/releases/tag/v1.0.0)
+- [HWIDSpoof] ([https://github.com/chjj/marked](https://api.vrcmg.com/v1/mods/download/62))
+- [ProMovements] ([https://github.com/EdenFails/ProMovements/releases/tag/V2.0.0))
+- [ForceJump] ([https://github.com/Cyril-Xd/Force_Jump/releases/tag/Release))
+- [HWIDSpoof] ([https://github.com/chjj/marked](https://api.vrcmg.com/v1/mods/download/62))
 
 
 ## License
