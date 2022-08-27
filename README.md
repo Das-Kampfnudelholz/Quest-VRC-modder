@@ -12,6 +12,8 @@
 </p>
 
 <h4 align="center">https://discord.gg/wYPE9TXpNa</a>.</h4>
+<h4 align="center">https://www.youtube.com/watch?v=IIw0GkQzvgQ&ab_channel=lucyro</a>.</h4>
+
 
 
 ## Key Features
